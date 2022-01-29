@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('cloning repo') {
             steps {
-                echo 'Helloewwwwwqreqwqwrqwwewwdefeewfewfewfew2rw2r3rd32hgfhghg World'
+                echo 'Helloewwwwwqreqwqwrqwwewwdefeewfewdwwedfefwefwefewffwrfewfew2rw2r3rd32hgfhghg World'
             }
         }
 
